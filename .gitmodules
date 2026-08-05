@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "DEmixR"]
 	path = DEmixR
-	url = https://github.com/cran/DEmixR
+	url = https://github.com/fhabibzadeh/demixr
